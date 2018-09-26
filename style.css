@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+body {
+  background-color: #121020;
+}
+.one {
+    color: #94979D;
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: Righteous;
+    font-size: 100px;
+    font-weight: 300;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    height: 30%;
+    width: 50%;
+    
+  }
+  .embed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    top: 50%;
+    left: 35%;
+    }
+ 
