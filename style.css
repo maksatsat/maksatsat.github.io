@@ -7,19 +7,14 @@ body {
     margin: 0;
     margin-bottom: 15px;
     font-family: Righteous;
-<<<<<<< HEAD
     font-size: 100px;
+    font-weight: 300;
+    position: absolute;
+    font-size: 80px;
     font-weight: 300;
     position: absolute;
     top: 50%;
     left: 30%;
-=======
-    font-size: 50px;
-    font-weight: 300;
-    position: absolute;
-    top: 30%;
-    left: 20%;
->>>>>>> 0d005aa0e402dd5e6d06bee6c1b840af0e961337
     height: 30%;
     width: 50%;
     
@@ -29,9 +24,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     top: 50%;
-    left: 35%;
+    left: 50%;
     }
-<<<<<<< HEAD
   .gembed {
     display: block;
     margin-left: auto;
@@ -40,6 +34,3 @@ body {
     left: 35%;
     }
  
-=======
- 
->>>>>>> 0d005aa0e402dd5e6d06bee6c1b840af0e961337
