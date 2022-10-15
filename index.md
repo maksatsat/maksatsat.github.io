@@ -4,9 +4,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="me.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I am a second year MSc student at Moscow Institute of Physics and Technology.
 
 This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
@@ -25,11 +25,11 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+| Year | Award     | Category                                              |
+| ---- | --------- | ----------------------------------------------------- |
+| 2014 | Emmy      | Won Outstanding Lead Actor in a miniseries or a movie |
+| 2015 | BAFTA     | Nominated for Best Leading Actor for Sherlock         |
+| 2014 | Satellite | Won Best Actor miniseries or television film          |
 
 Here is a horizontal rule
 
