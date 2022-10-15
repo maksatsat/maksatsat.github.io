@@ -1,7 +1,7 @@
 title: Researcher
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
-
+remote_theme: ankitsultana/researcher@gem
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
@@ -12,13 +12,13 @@ footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
-    style: compressed
-    sass_dir: _sass
+  style: compressed
+  sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+  - name: "About"
+    link: "/researcher/"
+  - name: "Resume"
+    link: "resume.pdf"
+  - name: "Contact"
+    link: "contact"
