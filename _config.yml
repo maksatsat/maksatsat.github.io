@@ -1,7 +1,8 @@
+remote_theme: ankitsultana/researcher@gem
+
 title: Researcher
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
-remote_theme: ankitsultana/researcher
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
