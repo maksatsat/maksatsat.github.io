@@ -3,24 +3,26 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [maksatsatybaldiev@gmail.com](mailto:maksatsatybaldiev@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+<!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 ---
 
-## Mailing Address
+<!-- ## Mailing Address
 
 > 221B, Baker Street
 >
 > London
 >
-> United Kingdom
+> United Kingdom -->
 
 ---
 
-## Social
+## Links
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* [Twitter]([#](https://github.com/maksatst))
+* [Facebook]([#](https://instagram.com/maksatsat))
+* [Telegram]([#](https://t.me/maksatsat))
+* [Github]([#](https://github.com/maksatsat))
+* 
