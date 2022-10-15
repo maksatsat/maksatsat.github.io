@@ -1,7 +1,7 @@
 remote_theme: ankitsultana/researcher@gem
 
-title: Researcher
-url: "https://ankitsultana.com"
+title: Maksat Satybaldiev
+url: "https://maksatsat.github.io/"
 baseurl: ""
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -10,7 +10,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Build with jekyll"
 
 sass:
   style: compressed
