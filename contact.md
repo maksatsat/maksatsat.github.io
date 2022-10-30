@@ -25,4 +25,3 @@ is_contact: true
 * [Facebook]([#](https://instagram.com/maksatsat))
 * [Telegram]([#](https://t.me/maksatsat))
 * [Github]([#](https://github.com/maksatsat))
-* 
