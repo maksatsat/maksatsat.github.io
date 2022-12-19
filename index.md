@@ -9,7 +9,9 @@ layout: default
 Hi! I am a second year MSc student at Moscow Institute of Physics and Technology.
 I also work as a research assistant at the Laboratory of Fundamental and Applied X-ray Astrophysics at Space Research Institute (IKI).
 
-My research is dedicated to transient X-ray sources such as Supergiant Fast X-ray Transients (SFXTs) and Supergiant X-ray Binaries (SgXBs) and X-ray bursters.
+My research is dedicated to transient X-ray sources such as Supergiant Fast X-ray Transients (SFXTs), Supergiant X-ray Binaries (SgXBs) and X-ray bursters.
+
+[High Energy Astrophysics Today and Tomorrow conference poster](heaconf2022_poster.pdf).
 
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
