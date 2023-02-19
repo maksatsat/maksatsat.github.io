@@ -11,7 +11,7 @@ I also work as a research assistant at the Laboratory of Fundamental and Applied
 
 My research is dedicated to transient X-ray sources such as Supergiant Fast X-ray Transients (SFXTs), Supergiant X-ray Binaries (SgXBs) and X-ray bursters.
 
-[High Energy Astrophysics Today and Tomorrow conference poster](heaconf2022_poster.pdf).
+High Energy Astrophysics Today and Tomorrow conference poster ([eng](heaconf2022_poster_eng.pdf), [rus](heaconf2022_poster_ru.pdf)).
 
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
