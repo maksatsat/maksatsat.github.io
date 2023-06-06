@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="me.jpeg">
+<img class="profile-picture" src="me.JPG">
 
 Hi! I am a second year MSc student at Moscow Institute of Physics and Technology.
 I also work as a research assistant at the Laboratory of Fundamental and Applied X-ray Astrophysics at Space Research Institute (IKI).
