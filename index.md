@@ -6,12 +6,14 @@ layout: default
 
 <img class="profile-picture" src="me.JPG">
 
-Hi! I am a second year MSc student at Moscow Institute of Physics and Technology.
-I also work as a research assistant at the Laboratory of Fundamental and Applied X-ray Astrophysics at Space Research Institute (IKI).
+Hi!
 
-My research is dedicated to transient X-ray sources such as Supergiant Fast X-ray Transients (SFXTs), Supergiant X-ray Binaries (SgXBs) and X-ray bursters.
+I am an astrophysics PhD student at the Norwegian University of Science and Technology (NTNU) and member of the [LOVE-NEST team](https://home.phys.ntnu.no/LOVE-NEST/). My research focuses on neutron stars in binary systems. Currently, I am stydying high energy emission (X-rays and gamma-rays) from spider systems (compact binary millisecond pulsars).
 
-High Energy Astrophysics Today and Tomorrow conference poster ([eng](heaconf2022_poster_eng.pdf), [rus](heaconf2022_poster_ru.pdf)).
+I did my bachelors and masters at the Moscow Institute of Physics and Technology (MIPT) and the Space Research Institute (IKI).
+I worked on different transient X-ray sources such as Supergiant Fast X-ray Transients (SFXTs), Red Supergiant X-ray Binaries (RSG XBs) and X-ray bursters.
+
+
 
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
