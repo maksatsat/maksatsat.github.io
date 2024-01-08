@@ -6,13 +6,13 @@ layout: default
 
 <img class="profile-picture" src="me.JPG">
 
-Hi! I'm Maksat, an upcoming PhD student at Norwegian University of Science and Technology (NTNU).
+Hi!
 
+I am an astrophysics PhD student at the Norwegian University of Science and Technology (NTNU) and member of the [LOVE-NEST team](https://home.phys.ntnu.no/LOVE-NEST/). My research focuses on neutron stars in binary systems. Currently, I am stydying high energy emission (X-rays and gamma-rays) from spider systems (compact binary millisecond pulsars).
 
-During my MS and BS at Moscow Institute of Physics and Technology and Space Research Institute (IKI) I worked on transient X-ray sources such as Supergiant Fast X-ray Transients (SFXTs), Supergiant X-ray Binaries (SgXBs) and X-ray bursters.
+I did my bachelors and masters at the Moscow Institute of Physics and Technology (MIPT) and the Space Research Institute (IKI).
+I worked on different transient X-ray sources such as Supergiant Fast X-ray Transients (SFXTs), Red Supergiant X-ray Binaries (RSG XBs) and X-ray bursters.
 
-
-High Energy Astrophysics Today and Tomorrow conference poster ([eng](heaconf2022_poster_eng.pdf), [rus](heaconf2022_poster_ru.pdf)).
 
 <img src="me_astro.jpg">
 
