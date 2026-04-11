@@ -8,7 +8,7 @@ categories: science
 thumbnail: assets/img/publication_preview/J2039_animation.gif
 ---
 
-My first PhD paper was published in [ApJ](https://ui.adsabs.harvard.edu/abs/2026ApJ...998...94S/abstract)!
+My first PhD paper was finally published in [ApJ](https://ui.adsabs.harvard.edu/abs/2026ApJ...998...94S/abstract)!
 
 Spider pulsars are known to exhibit orbital modulation of their flux across the entire electromagnetic spectrum, from radio to X-rays. Over the past decade, gamma-ray orbital modulation (GOM) has been discovered in a handful of spiders, but its origin remains largely unknown. Because GOM is very subtle, its detection requires high photon statistics and precise spin and orbital ephemerides.
 
