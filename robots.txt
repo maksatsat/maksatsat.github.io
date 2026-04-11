@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://maksatsat.github.io/sitemap.xml
