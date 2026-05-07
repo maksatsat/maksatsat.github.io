@@ -1,0 +1,1 @@
+.profile-slideshow{position:relative;width:100%}.profile-slideshow .profile-slide{position:absolute;top:0;left:0;width:100%;opacity:0;transition:opacity 1s ease-in-out}.profile-slideshow .profile-slide:first-child{position:relative}.profile-slideshow .profile-slide.active{opacity:1}footer{background-color:#b9b7b7!important}
