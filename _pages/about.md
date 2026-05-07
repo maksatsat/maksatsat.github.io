@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Maksat Satybaldiev</p>
     <p>High-energy astrophysicist</p>
+    <p>"Astro-arachnologist"</p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

@@ -1,0 +1,53 @@
+---
+---
+
+.profile-image-wrapper {
+  position: relative;
+  display: inline-block;
+
+  .profile-img-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  &:hover .profile-img-hover {
+    opacity: 1;
+  }
+
+  &:hover .profile-img-main {
+    opacity: 0;
+  }
+
+  .profile-img-main {
+    transition: opacity 0.3s ease;
+  }
+}
+
+.profile-slideshow {
+  position: relative;
+  width: 100%;
+
+  .profile-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+
+    &:first-child {
+      position: relative;
+    }
+
+    &.active {
+      opacity: 1;
+    }
+  }
+}
+
+footer {
+  background-color: rgb(185, 183, 183) !important;
+}
