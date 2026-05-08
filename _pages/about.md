@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Maksat Satybaldiev</p>
-    <p>High-energy astrophysicist</p>
-    <p>"Astro-arachnologist"</p>
+
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -31,6 +29,7 @@ latest_posts:
 # About Maksat
 I'm a PhD candidate at the Norwegian University of Science and Technology, working in the [*LOVE-NEST*](https://home.phys.ntnu.no/LOVE-NEST/) group with Prof. Manuel Linares. 
 My research focuses on high-energy emission from [*spider pulsars*](https://astro.phys.ntnu.no/SpiderCAT/) (*redbacks and black widows*) using X-ray and gamma-ray space observatories.
+In other words, I'm an *astro-arachnologist*.
 
 Previously, I studied mathematics and physics at the Moscow Institute of Physics and Technology, while also working at the Space Research Institute with Dr. Ilya Mereminskiy.
 My bachelor's and master's theses focused on high-mass X-ray binaries and X-ray burster systems.

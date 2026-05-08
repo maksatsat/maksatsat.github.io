@@ -28,7 +28,6 @@
 
 .profile-slideshow {
   position: relative;
-  width: 100%;
 
   .profile-slide {
     position: absolute;
@@ -36,18 +35,41 @@
     left: 0;
     width: 100%;
     opacity: 0;
-    transition: opacity 1s ease-in-out;
-
-    &:first-child {
-      position: relative;
-    }
+    transition: opacity 2s ease-in-out;
 
     &.active {
       opacity: 1;
+    }
+
+    &:first-child {
+      position: relative;
     }
   }
 }
 
 footer {
   background-color: rgb(185, 183, 183) !important;
+}
+
+.desktop-only {
+  display: block;
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.mobile-only {
+  display: none;
+
+  @media (max-width: 768px) {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+.post-thumbnail img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
