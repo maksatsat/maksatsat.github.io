@@ -6,6 +6,7 @@ description: Bikepacking trip 2025
 tags: cycling
 categories: sports
 thumbnail: assets/img/posts/bikepacking/thumbnail.jpg
+published: false
 images:
   photoswipe: true
 ---
