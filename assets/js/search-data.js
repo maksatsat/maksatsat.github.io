@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/gamma-ray-orbital-modulation/";
           
         },
+      },{id: "post-cycling-along-the-fjords",
+        
+          title: "Cycling Along the Fjords",
+        
+        description: "Bikepacking trip 2025",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/biking-along-the-fjords/";
+          
+        },
       },{
       id: 'light-theme',
       title: 'Change theme to light',
