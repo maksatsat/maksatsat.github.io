@@ -8,5 +8,3 @@ cv_pdf: cv_satybaldiev.pdf # you can also use external links here
 description: 
 
 ---
-
-Mesdf

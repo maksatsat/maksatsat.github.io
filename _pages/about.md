@@ -27,20 +27,19 @@ latest_posts:
 ---
 
 # About Maksat
-I'm a PhD candidate at the Norwegian University of Science and Technology, working in the [*LOVE-NEST*](https://home.phys.ntnu.no/LOVE-NEST/) group with Prof. Manuel Linares. 
+I'm a PhD candidate at the Norwegian University of Science and Technology, working in the [*LOVE-NEST*](https://home.phys.ntnu.no/LOVE-NEST/) group with Prof. Manuel Linares and Dr. Vittoria Vecchiotti. 
 My research focuses on high-energy emission from [*spider pulsars*](https://astro.phys.ntnu.no/SpiderCAT/) (*redbacks and black widows*) using X-ray and gamma-ray space observatories.
 In other words, I'm an *astro-arachnologist*.
 
-Previously, I studied mathematics and physics at the Moscow Institute of Physics and Technology, while also working at the Space Research Institute with Dr. Ilya Mereminskiy.
-My bachelor's and master's theses focused on high-mass X-ray binaries and X-ray burster systems.
+Previously, I studied mathematics and physics at the Moscow Institute of Physics and Technology, while also working at the Space Research Institute.
+My bachelor's and master's theses focused on high-mass X-ray binaries and X-ray burster systems under the supervision of Dr. Ilya Mereminskiy.
 
 I am particularly interested in extreme astrophysical objects that exhibit variability or periodic behavior.
 I especially enjoy timing analysis and working with observational data from these systems.
 
-Outside of research, I have many hobbies that I’m not particularly good at.
+Outside of research, I have many hobbies that I'm not particularly good at.
 I enjoy films, playing the guitar, football (both watching and playing), chess, running, and cycling.
 
 Feel free to email me at maksatsatybaldiev @ gmail.com to discuss science, the latest Champions League matches, or new movies.
-
 
 

@@ -6,7 +6,7 @@ description: Bikepacking trip 2025
 tags: cycling
 categories: sports
 thumbnail: assets/img/posts/bikepacking/thumbnail.jpg
-published: false
+published: true
 images:
   photoswipe: true
 ---
@@ -30,9 +30,9 @@ Feeling fsdafldsajlfasfdad
 </style>
 
 <div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
-  <a href="/assets/img/posts/bikepacking/Day0/IMG_6049.jpg"
+  <a href="/assets/img/posts/bikepacking/Day0/IMG_6049.webp"
     target="_blank">
-    <img src="/assets/img/posts/bikepacking/Day0/IMG_6049.jpg" alt="" />
+    <img src="/assets/img/posts/bikepacking/Day0/IMG_6049.webp" alt="" />
   </a>
 </div>
 ---
