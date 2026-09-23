@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-vibecoded-spiders-animation",
+        },{id: "post-spiders-animation",
         
-          title: "A Vibecoded Spiders Animation",
+          title: "Spiders Animation",
         
-        description: "I vibecoded a little spiders animation with Claude",
+        description: "Spider pulsars animation with Claude",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/vibecoded-spiders-animation/";
+            window.location.href = "/blog/2026/spiders-animation/";
           
         },
       },{id: "post-gamma-ray-orbital-modulation-in-spider-pulsars",
