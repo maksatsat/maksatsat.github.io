@@ -10,8 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-
-
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
@@ -27,9 +25,10 @@ latest_posts:
 ---
 
 # About Maksat
-I'm a PhD candidate at the Norwegian University of Science and Technology (NTNU), working in the [*LOVE-NEST*](https://home.phys.ntnu.no/LOVE-NEST/) group with Prof. Manuel Linares and Dr. Vittoria Vecchiotti.
-My research focuses on high-energy emission from [*spider pulsars*](https://astro.phys.ntnu.no/SpiderCAT/) (*redbacks and black widows*) using X-ray and gamma-ray space observatories.
-In other words, I'm an *astro-arachnologist*.
+
+I'm a PhD candidate at the Norwegian University of Science and Technology (NTNU), working in the [_LOVE-NEST_](https://home.phys.ntnu.no/LOVE-NEST/) group with Prof. Manuel Linares and Dr. Vittoria Vecchiotti.
+My research focuses on high-energy emission from [_spider pulsars_](https://astro.phys.ntnu.no/SpiderCAT/) (_redbacks and black widows_) using X-ray and gamma-ray space observatories.
+In other words, I'm an _astro-arachnologist_.
 
 I was born and raised in Bishkek, the capital of Kyrgyzstan, a beautiful country in Central Asia.
 After finishing high school, I moved to Moscow, where I studied mathematics and physics at the Moscow Institute of Physics and Technology (MIPT) while also working at the Space Research Institute (IKI).
@@ -42,5 +41,3 @@ Outside of research, I have many hobbies, none of which I'm particularly good at
 I enjoy films, playing the guitar, football (both watching and playing), chess, running, and cycling.
 
 Feel free to email me at maksatsatybaldiev @ gmail.com to discuss science, the latest Champions League matches, or new movies.
-
-

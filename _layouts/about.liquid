@@ -11,9 +11,13 @@ layout: default
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
           <div class="profile-slideshow desktop-only">
-            {% assign slideshow_images = "1.jpg,2.jpg,3.jpg,4.jpg,5.jpg" | split: "," %}
+            {% assign slideshow_images = '1.jpg,2.jpg,3.jpg,4.jpg,5.jpg' | split: ',' %}
             {% for img in slideshow_images %}
-              <img src="{{ img | prepend: '/assets/img/profile/' | relative_url }}" class="profile-slide img-fluid z-depth-1 rounded" alt="profile photo">
+              <img
+                src="{{ img | prepend: '/assets/img/profile/' | relative_url }}"
+                class="profile-slide img-fluid z-depth-1 rounded"
+                alt="profile photo"
+              >
             {% endfor %}
           </div>
         {% endif %}
@@ -27,7 +31,7 @@ layout: default
 
     <!-- Mobile slideshow -->
     <div class="profile-slideshow mobile-only mt-3">
-      {% assign slideshow_images = "1.jpg,2.jpg,3.jpg,4.jpg,5.jpg" | split: "," %}
+      {% assign slideshow_images = '1.jpg,2.jpg,3.jpg,4.jpg,5.jpg' | split: ',' %}
       {% for img in slideshow_images %}
         <img src="{{ img | prepend: '/assets/img/profile/' | relative_url }}" class="profile-slide img-fluid z-depth-1 rounded" alt="profile photo">
       {% endfor %}
@@ -71,22 +75,22 @@ layout: default
     {% endif %}
   </article>
   <script>
-document.addEventListener("DOMContentLoaded", function() {
-  function initSlideshow(container) {
-    const slides = container.querySelectorAll('.profile-slide');
-    if (slides.length === 0) return;
-    let current = 0;
-    slides[0].classList.add('active');
-    setInterval(function() {
-      slides[current].classList.remove('active');
-      current = (current + 1) % slides.length;
-      slides[current].classList.add('active');
-    }, 7000);
-  }
+    document.addEventListener('DOMContentLoaded', function () {
+      function initSlideshow(container) {
+        const slides = container.querySelectorAll('.profile-slide');
+        if (slides.length === 0) return;
+        let current = 0;
+        slides[0].classList.add('active');
+        setInterval(function () {
+          slides[current].classList.remove('active');
+          current = (current + 1) % slides.length;
+          slides[current].classList.add('active');
+        }, 7000);
+      }
 
-  document.querySelectorAll('.profile-slideshow').forEach(function(slideshow) {
-    initSlideshow(slideshow);
-  });
-});
-</script>
+      document.querySelectorAll('.profile-slideshow').forEach(function (slideshow) {
+        initSlideshow(slideshow);
+      });
+    });
+  </script>
 </div>

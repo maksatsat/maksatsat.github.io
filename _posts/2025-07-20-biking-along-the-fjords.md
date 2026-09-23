@@ -2,7 +2,7 @@
 layout: post
 title: Cycling Along the Fjords
 date: 2025-07-20
-description: Bikepacking trip 2025 
+description: Bikepacking trip 2025
 tags: cycling
 categories: sports
 thumbnail: assets/img/posts/bikepacking/thumbnail.jpg
@@ -13,13 +13,11 @@ images:
 
 Feeling fsdafldsajlfasfdad
 
-
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15159946487" data-style="standard" data-from-embed="false" data-token="HuZLkOnRgXDGq7oWc7knkROu-TKQz4WexSHKzritPZ8"></div><script src="https://strava-embeds.com/embed.js"></script>
 
 <br>
 
 ---
-
 
 <style>
 .pswp-gallery img {
@@ -72,4 +70,3 @@ Feeling fsdafldsajlfasfdad
     </a>
   </div>
 </div>
-
