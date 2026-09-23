@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-gamma-ray-orbital-modulation-in-spider-pulsars",
+        },{id: "post-a-vibecoded-spiders-animation",
+        
+          title: "A Vibecoded Spiders Animation",
+        
+        description: "I vibecoded a little spiders animation with Claude",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/vibecoded-spiders-animation/";
+          
+        },
+      },{id: "post-gamma-ray-orbital-modulation-in-spider-pulsars",
         
           title: "Gamma-ray Orbital Modulation in Spider Pulsars",
         
