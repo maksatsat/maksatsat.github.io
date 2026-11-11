@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-publications",
-          title: "publications",
+        },{id: "nav-selected-publications",
+          title: "selected publications",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-spiders-animation",
+        },{id: "post-gamma-ray-modes-in-a-transitional-pulsar",
+        
+          title: "Gamma-Ray Modes in a Transitional Pulsar",
+        
+        description: "Gamma-ray modes paper",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gamma-ray-modes/";
+          
+        },
+      },{id: "post-spiders-animation",
         
           title: "Spiders Animation",
         
