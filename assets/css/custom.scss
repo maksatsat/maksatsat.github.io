@@ -36,9 +36,12 @@
     width: 100%;
     opacity: 0;
     transition: opacity 2s ease-in-out;
+    pointer-events: none; // hidden slides must not catch clicks
 
     &.active {
       opacity: 1;
+      z-index: 1;
+      pointer-events: auto; // only the visible photo is clickable (zoom)
     }
 
     &:first-child {

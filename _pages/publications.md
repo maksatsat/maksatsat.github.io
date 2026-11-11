@@ -1,13 +1,14 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: selected publications
+nav_title: publications
 description:
 nav: true
 nav_order: 2
 ---
 
-View my publications on [NASA ADS](https://ui.adsabs.harvard.edu/search/q=author:%22Satybaldiev%2C+Maksat%22)
+View my full publication list on [SciX](https://scixplorer.org/search?p=1&q=author%3A%22satybaldiev%2C+maksat%22&sort=score+desc&sort=date+desc&d=general)
 
 <!-- _pages/publications.md -->
 

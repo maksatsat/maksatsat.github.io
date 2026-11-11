@@ -17,6 +17,7 @@ layout: default
                 src="{{ img | prepend: '/assets/img/profile/' | relative_url }}"
                 class="profile-slide img-fluid z-depth-1 rounded"
                 alt="profile photo"
+                data-zoomable
               >
             {% endfor %}
           </div>
@@ -33,7 +34,12 @@ layout: default
     <div class="profile-slideshow mobile-only mt-3">
       {% assign slideshow_images = '1.jpg,2.jpg,3.jpg,4.jpg,5.jpg' | split: ',' %}
       {% for img in slideshow_images %}
-        <img src="{{ img | prepend: '/assets/img/profile/' | relative_url }}" class="profile-slide img-fluid z-depth-1 rounded" alt="profile photo">
+        <img
+          src="{{ img | prepend: '/assets/img/profile/' | relative_url }}"
+          class="profile-slide img-fluid z-depth-1 rounded"
+          alt="profile photo"
+          data-zoomable
+        >
       {% endfor %}
     </div>
 
